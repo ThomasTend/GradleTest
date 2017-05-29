@@ -1,0 +1,5 @@
+projectKey=GradleTest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/GradleTest
+ceTaskId=AVxU_H_JaU5jZXcn7MtF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVxU_H_JaU5jZXcn7MtF
